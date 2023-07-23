@@ -1,17 +1,33 @@
 {
+
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1",
+
+"Version":"1.2",
+
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+
 "Url":"" ,
+
 "Changelog":"
+
 မ ဂင်္လာပါ 
+
  TRUE & DTAC 5ဖိုင်ထည့်ပေးထားတယ်
+
 ",
+
 //ไม่ต้องยุ่งด้านล่าง
+
 "latestVersion": "1.0.0",
+
 "latestVersionCode": "1",
-"url": "https://github.com/Thetpainghtun161121/vpn/raw/main/vpn.zip",
+
+"url": "https://github.com/Thetpainghtun161121/vpn/blob/main/vps.zip",
+
  "releaseNotes": [
+
   "-Demo"
+
     ]
-    }
+
+}
