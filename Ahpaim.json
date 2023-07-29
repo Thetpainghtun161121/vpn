@@ -2,7 +2,7 @@
 
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 
-"Version":"1.6",
+"Version":"1.2",
 
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 
@@ -12,7 +12,7 @@
 
 မ ဂင်္လာပါ 
 
- TRUE & DTAC 5ဖိုင်ထည့်ပေးထားတယ်
+ TRUE 1 ဖိုင်ထည့်ပေးထားတယ်
 
 ",
 
@@ -22,7 +22,7 @@
 
 "latestVersionCode": "1",
 
-"url": "https://github.com/Thetpainghtun161121/vpn/blob/main/vpss.zip",
+"url": "https://github.com/Thetpainghtun161121/vpn/blob/main/vpns.zip",
 
  "releaseNotes": [
 
